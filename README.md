@@ -36,7 +36,7 @@ This project demonstrates how to set up a real-time Linux system monitoring stac
 
 > Example Grafana Panel:
 
-![System Dashboard](dashboard-ss1.png)
+![System Dashboard](dashboard_ss1.png)
 
 ---
 
