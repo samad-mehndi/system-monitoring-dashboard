@@ -100,10 +100,10 @@ sudo systemctl enable grafana-server
 linux-system-monitor/
 ├── prometheus.yml
 ├── README.md
-├── dashboard-screenshot.png
-└── setup/
-    ├── prometheus-install.sh (optional)
-    └── node_exporter-install.sh (optional)
+└── images/
+    ├── dashboard-ss1.png
+    ├── dashboard-ss2.png
+    └── dashboard-ss3.png
 ```
 
 ---
